@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-slate-850 {
+    background-color: #0f1d32;
+  }
+}

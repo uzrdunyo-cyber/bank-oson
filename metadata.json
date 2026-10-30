@@ -1,0 +1,6 @@
+{
+  "name": "Bank Oson AI",
+  "description": "O‘zbekiston fuqarolari va tadbirkorlari uchun bank xizmatlarini tushuntirish, kredit hisoblash va moliyaviy xavfsizlik AI platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
